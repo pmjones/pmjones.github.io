@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+    <title>My Argo Blog</title>
+    <link href="https://pmjones.github.io" />
+    <updated>2020-10-26T16:32:16-05:00</updated>
+
+        <entry>
+        <title>My First Post</title>
+        <link href="https://pmjones.github.io/post/2020/10/26/my-first-post/" />
+        <updated>2020-10-26T16:32:16-05:00</updated>
+        <summary>Some body content.
+bold italic
+
+list
+list
+list
+
+Some more content....</summary>
+    </entry>
+        <entry>
+        <title>Sample Post</title>
+        <link href="https://pmjones.github.io/post/2020/10/26/sample-post/" />
+        <updated>2020-10-26T16:31:00-05:00</updated>
+        <summary>Sample post body....</summary>
+    </entry>
+    
+</feed>

@@ -1,0 +1,8 @@
+{
+    "title": "My Argo Blog",
+    "tagline": "A blog using Argo.",
+    "author": "pmjones",
+    "url": "https://pmjones.github.io",
+    "timezone": "CST6CDT",
+    "perPage": 10
+}
